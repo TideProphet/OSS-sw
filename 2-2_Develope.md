@@ -31,12 +31,15 @@
 
 위계질서의 형태는 오픈 소스 커뮤니티마다 모두 다르지만, BDFL(Benevolent Dictator For Life)과 Meritocracy, Liberal 이렇게 3가지 종류로 나눌 수 있다. 뒤로 갈수록 더 많은 사람들에게 권한이 주어지는 형태다.
 
-	BDFL:한 사람이 모든 중요한 의사결정권을 가진다. ex) python
+	BDFL:한 사람이 모든 중요한 의사결정권을 가진다. 
+	ex) python
 	
 	Meritocracy:소수의 메인 컨트리뷰터들이 안건과 선택지에 대해 우선적으로 결정하고 구성원의 의견은 투표를 통해 수렴한다. 
 	ex) Apache의 오픈소스 프로젝트
 
-	Liberal contributor:다수의 컨트리뷰터들이 위원회를 구성한다. 투표를 지양하고 위원회 안에서 합의를 통해 최대한 많은 구성원의 의견을 반영해서 결정을 내린다. ex) Node.js
+	Liberal contributor:다수의 컨트리뷰터들이 위원회를 구성한다. 투표를 지양하고 위원회 안에서 합의를 통해 최대한 많은 구성원의 의견을
+	반영해서 결정을 내린다.
+	ex) Node.js
 
 ## 2. 버전 컨트롤 시스템
 
