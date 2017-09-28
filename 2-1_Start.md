@@ -8,7 +8,8 @@
 
 1960년대부터 이어져온 하드웨어 중심 체제로부터 점점 소프트웨어의 비중이 높아지면서 소프트웨어 기업의 소프트웨어에 대한 이용·배포·복제·수정 등에 일정한 제한을 가하려고 하는 추세가 있자, 이러한 ‘독점’ 체제에 반발해 ‘공유’를 주장하는 운동이 리차드 스톨만(Richard Stallman)에 의해 일어났다.
 
-![richard](http://upload.wikimedia.org/wikipedia/commons/6/69/Richard_Stallman_by_Anders_Brenna_03.jpg)
+![richard](http://upload.wikimedia.org/wikipedia/commons/6/69/Richard_Stallman_by_Anders_Brenna_03.jpg<img width="1280" height="720">
+)
 
 리차드 스톨만은 소프트웨어 상업화에 반대하고 소프트웨어 개발 초기의 상호협력적인 문화로 돌아갈 것을 주장하며 1984년 GNU(GNU is Not UNIX)프로젝트를 주도하게 된다.
 
