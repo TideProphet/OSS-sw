@@ -8,8 +8,9 @@
 
 이 과정에서 소프트웨어의 저작권에 관한 치열한 논쟁이 벌어졌다. 해커와 연구자들로 이루어진 그룹은 소프트웨어는 무료로 배포되어야 한다고 주장했고, 소프트웨어 기업들은 소유권이 보호되어야 한다고 주장했다. 대표적인 기업 측 인물이었더 빌 게이츠는 1976년 <취미 생활자들에게 쓰는 공개편지>라는 글에서 이렇게 말했다. "소프트웨어를 만드느라 애쓴 사람들에게 보상을 주지 않으면 도둑질이다." 하지만 이에 반대하던 해커들 중 한명인 리처드 스톨먼은 소프트웨어는 자유로워야 한다고 주장하며 자유 소프트웨어 재단(FSF)을 설립했다. 그는 소프트웨어를 자유롭게 수정 배포할 수 있게 하는 GPL이라는 라이선스를 만들었다.
 
-이 상황에서 오픈 소스 역사의 획을 긋는 사건이 일어난다. 라이너스 토발즈라는 프로그래머가 나타나서 자신이 개발한 소프트웨어 커널(운영체제에서 핵심적인 역할을 하는 제어 모듈)을 GPL 라이선스로 공개한 것이다. 이것이 리눅스다.
-![linux](https://t1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/15UX/image/2dTA-N1mOAJ9jrezYxLxjo_o8Ag.jpg)<linux width="300" height="100"></linux>
+이 상황에서 오픈 소스 역사의 획을 긋는 사건이 일어난다. 라이너스 토발즈라는 프로그래머가 나타나서 자신이 개발한 소프트웨어 커널(운영체제에서 핵심적인 역할을 하는 제어 모듈)을 GPL 라이선스로 공개한 것이다. 이것이 리눅스다.  
+
+![linux](https://t1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/15UX/image/2dTA-N1mOAJ9jrezYxLxjo_o8Ag.jpg)<linux width="30" height="10"></linux>  
 < 출처:https://brunch.co.kr/@bumgeunsong/15 >  
 
 
